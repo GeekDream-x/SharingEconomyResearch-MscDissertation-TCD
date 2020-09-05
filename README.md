@@ -11,8 +11,8 @@ The 20 expeirment data of the 20 WIFI sharing games and each csv file contains t
 
 ## breadboard-v2.3.0:
 
-The experiment platform - Breadboard.
+The supportive files of the experiment platform - Breadboard.
 
 ## WifiSharingGame:
 
-The zip file containing the sharing game used in my thesis.
+The zip file which contains the sharing game used in my thesis.
